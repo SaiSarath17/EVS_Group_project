@@ -1,6 +1,8 @@
 # EVS_Group_project
 **How to achieve Sustainable Growth in Singapore?**
 
+This is a Group Project done under the course EV10003 in Spring Semester 2020-21.
+
 Team Members :-
 
 - G.V.K. Sai Sarath (20MF3IM08)
